@@ -36,6 +36,18 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!--Paul added dependency-->
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>2.3.0</version>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
@@ -59,7 +71,15 @@
             <plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
-                <version>0.3.7</version>
+                <version>1.0.0</version>
+                <dependencies>
+                   
+                    <dependency> 
+                        <groupId>javax.xml.bind</groupId> 
+                        <artifactId>jaxb-api</artifactId> 
+                        <version>2.3.1</version> 
+                    </dependency>
+                </dependencies>
                 <executions>
                     <execution>
                         <phase>package</phase>

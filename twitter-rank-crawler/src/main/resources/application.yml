@@ -20,10 +20,10 @@ spring:
     dynamic: true
   social:
     twitter:
-      accessTokenSecret: 'replace'
-      accessToken: 'replace'
-      appSecret: 'replace'
-      appId: 'replace'
+      accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
+      accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
+      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
+      appId: '20183976'
   profiles: 'production'
 eureka:
   client:
@@ -52,10 +52,10 @@ spring:
     dynamic: true
   social:
     twitter:
-      accessTokenSecret: 'replace'
-      accessToken: 'replace'
-      appSecret: 'replace'
-      appId: 'replace'
+      accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
+      accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
+      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
+      appId: '20183976'
   profiles: 'development'
 eureka:
   client:
@@ -84,10 +84,10 @@ spring:
     dynamic: true
   social:
     twitter:
-      accessTokenSecret: 'replace'
-      accessToken: 'replace'
-      appSecret: 'replace'
-      appId: 'replace'
+      accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
+      accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
+      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
+      appId: '20183976'
   profiles: 'test'
 eureka:
   client:

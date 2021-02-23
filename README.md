@@ -43,6 +43,8 @@ After the analysis service has completed execution of a job, it sends a message 
 - Fill out Twitter properties on ```docker-compose.yml```
 - If you are running it on a macOS system, reminder to change the fixed IPs in 
 all ```application.yml``` files for ```192.168.99.100```, that is the default for docker-machine in the macOS
+- ```socat TCP-LISTEN:2375,reuseaddr,fork UNIX-CONNECT:/var/run/docker.sock``` to listen on port 2375
+- ```mvn -e clean install``` to build
 - Run the ```docker-compose up``` in your terminal console
 
 ## License
