@@ -1,4 +1,4 @@
-# Twitter Social Network Graph Processing Platform
+# Twitter Network Graph Processing Platform
 
 This a sample application that demonstrates how to build a graph processing platform to create a ranking dashboard of influential Twitter profiles. 
 
