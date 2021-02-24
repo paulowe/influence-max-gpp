@@ -1,6 +1,6 @@
-# Spring Boot Graph Processing Example
+# Twitter Network Graph Processing Platform
 
-A sample application that demonstrates how to build a graph processing platform to create a ranking dashboard of influential Twitter profiles. 
+This a sample application that demonstrates how to build a graph processing platform to create a ranking dashboard of influential Twitter profiles. 
 
 ## Architecture
 
