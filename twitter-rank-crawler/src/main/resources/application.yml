@@ -22,8 +22,8 @@ spring:
     twitter:
       accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
       accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
-      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
-      appId: '20183976'
+      appSecret: 'pCmBTZ6dBqCaf1BTffkF8il0AAiWIhgUlYhhZ7jDZFMFuDyNa5'
+      appId: 'bPIKaiR4d91amYlft7s6p39Nz'
   profiles: 'production'
 eureka:
   client:
@@ -54,8 +54,8 @@ spring:
     twitter:
       accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
       accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
-      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
-      appId: '20183976'
+      appSecret: 'pCmBTZ6dBqCaf1BTffkF8il0AAiWIhgUlYhhZ7jDZFMFuDyNa5'
+      appId: 'bPIKaiR4d91amYlft7s6p39Nz'
   profiles: 'development'
 eureka:
   client:
@@ -86,8 +86,8 @@ spring:
     twitter:
       accessTokenSecret: 'gjxpdHcVwVT4G7aGBMz654DLHk1aVu1zBXVTohMifq2XU'
       accessToken: '922977192-jzCCOIHFYh8Fs9N5DjlxZfW6CxgtLzPZyohYuqTX'
-      appSecret: 'qYHfQLskICuqqp52qMSOun4o6xyQ2K2W5g5TabD0kuu8FBqn65'
-      appId: '20183976'
+      appSecret: 'pCmBTZ6dBqCaf1BTffkF8il0AAiWIhgUlYhhZ7jDZFMFuDyNa5'
+      appId: 'bPIKaiR4d91amYlft7s6p39Nz'
   profiles: 'test'
 eureka:
   client:
